@@ -12,6 +12,6 @@
 
     </head>
     <body>
-        <h1>Hello World</h1>
+        <h1>About us</h1>
     </body>
 </html>
